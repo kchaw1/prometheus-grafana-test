@@ -2,6 +2,7 @@
 
 ### Start Command
 ```
+./gradlew boorJar
 docker compose up
 ```
 
